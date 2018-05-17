@@ -2,7 +2,7 @@
 
 eucookielaw.js is a lightweight JavaScript library that allows your website to comply with the European cookie law.
 
-<img src="media/screencast.gif" width="600" style="display:block;width:100%;max-width:600px" />
+<img src="media/screencast.gif" width="700" style="display:block;width:100%;max-width:700px" />
 
 ## Installation
 
