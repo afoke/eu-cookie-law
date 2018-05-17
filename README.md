@@ -25,6 +25,8 @@ eucookielaw.js is a lightweight JavaScript library that allows your website to c
 
 4. Finally, you can add the following code in your HTML to enable the Cookie Consent Notice:
 
+```
 <script>
     jQuery().euCookie();
 </script>
+```
