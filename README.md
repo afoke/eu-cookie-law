@@ -10,12 +10,16 @@ eucookielaw.js is a lightweight JavaScript library that allows your website to c
 
 2. Include the CSS in the head section of your HTML file:
 
+```
 <link rel="stylesheet" href="https://example.com/css/eucookielaw.css">
+```
 
 3. Include the minified JavaScript in the head section or before the closing body tag of your HTML file:
 
+```
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
 <script type="text/javascript" src="https://example.com/js/eucookielaw.min.js"></script>
+```
 
 **Note:** you do not have to include the jQuery library from Google if you already have jQuery added.
 
