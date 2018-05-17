@@ -2,10 +2,6 @@
 
 eucookielaw.js is a lightweight JavaScript library that allows your website to comply with the European cookie law.
 
-<video width="700" height="394" style="width:100%!important;height:auto!important;">
-<source src="media/screencast.webm" type="video/x-webm"></source>
-</video>
-
 ## Installation
 
 1. Download the repository and add these files and folder to your project's directory: **eucookielaw.js**, **eucookielaw.min.js**, and **css/eucookielaw.css**.
